@@ -24,6 +24,7 @@ public class conexion {
     public conexion() {
     }
 
+    // Comentario inservible
     public Connection conectar() {
         Connection link = null;
 
